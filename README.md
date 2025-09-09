@@ -1,5 +1,5 @@
 # ReferralDB
-ReferralDB is a database server for game save storage. 
+ReferralDB is a database server for game save storage. It was originally made for Referral Clicker, 
 
 ## Notice
 ReferralDB should only be used with an intermediary server, as it is designed to only be accessed by trusted servers and not clients.
